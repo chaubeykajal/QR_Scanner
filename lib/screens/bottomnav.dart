@@ -12,7 +12,7 @@ class bottomPage extends StatefulWidget {
   @override
   State<bottomPage> createState() => _bottomPageState();
 }
-
+// hello
 class _bottomPageState extends State<bottomPage> {
   
  List screens=[MyHomePage(),qr_scannerPage(),qr_generatorPage()];
